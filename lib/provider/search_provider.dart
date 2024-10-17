@@ -38,10 +38,9 @@ class SearchProvider with ChangeNotifier {
           'https://www.pngplay.com/wp-content/uploads/13/Google-Logo-PNG-Photo-Image.png',
     },
     {
-      'name': 'Yahoo',
-      'url': 'https://search.yahoo.com/search?p=',
-      'logo':
-          'https://s.yimg.com/ny/api/res/1.2/vlvd6fw1UHI9T_3GaNPzDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTI-/https://s.yimg.com/os/creatr-uploaded-images/2019-09/a929b8f0-dd65-11e9-bffe-b90463fd5188',
+      'name': 'Yandex',
+      'url': 'https://yandex.com/search/?text=',
+      'logo': 'https://pngimg.com/d/yandex_PNG20.png',
     },
     {
       'name': 'Bing',
@@ -50,15 +49,16 @@ class SearchProvider with ChangeNotifier {
           'https://www.logodesignlove.com/images/evolution/old-bing-logo-01.jpg',
     },
     {
-      'name': 'Yandex',
-      'url': 'https://yandex.com/search/?text=',
-      'logo': 'https://pngimg.com/d/yandex_PNG20.png',
-    },
-    {
       'name': 'DuckDuckGo',
       'url': 'https://duckduckgo.com/?q=',
       'logo':
           'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHsuwQaMWi8wu7v5yci7aVVg2nRLgRqco49w&s',
+    },
+    {
+      'name': 'Yahoo',
+      'url': 'https://search.yahoo.com/search?p=',
+      'logo':
+          'https://s.yimg.com/ny/api/res/1.2/vlvd6fw1UHI9T_3GaNPzDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTI-/https://s.yimg.com/os/creatr-uploaded-images/2019-09/a929b8f0-dd65-11e9-bffe-b90463fd5188',
     },
   ];
 
