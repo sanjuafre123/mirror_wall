@@ -1,16 +1,6 @@
 # mirror_wall
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/445ee662-1625-4b43-b56c-a1bc6425d5c8" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/e4bdb0c7-00a8-4053-a766-12c3465dddcb" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/4da79df1-6b4b-429b-a5cb-12e8a709b2eb" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/9e3b3fe9-3bca-4e58-be16-672e3910f3af" height=65% width=22%>.
