@@ -10,3 +10,5 @@
  <video src="https://github.com/user-attachments/assets/2366c4a8-06ee-4377-9c0d-02caa32227e9" type="video/mp4"> 
 </video>
 
+## Description :
+```The My Browser App (Mirror Wall) project aims to create a mobile browser application using Flutter and WebView technology. It will allow users to browse the internet, featuring navigation controls, bookmarks, and a refresh function. This app is designed to help IT students enhance their mobile app development skills. The project focuses on performance optimization, UI/UX, and follows the MVC and Provider architecture. Deliverables include source code, documentation, and a GitHub repository with screenshots, GIFs, and the APK.```
